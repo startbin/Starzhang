@@ -34,6 +34,7 @@
 - [SQL语句查询](https://blog.csdn.net/u011676417/article/details/86568017)
 - [多表查询](https://blog.csdn.net/u011676417/article/details/86586892)
 - [操作数据库表](https://blog.csdn.net/u011676417/article/details/86614484)
+- [JDBC](https://yq.aliyun.com/articles/691266)
 
 
 ### 多线程
