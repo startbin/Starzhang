@@ -29,6 +29,7 @@
 
 ### 算法LeetCode刷题
 - [两数之和](https://segmentfault.com/a/1190000019548980)
+- [判断字符串是否有效](https://segmentfault.com/a/1190000019889890)
 
 ### 数据库
 - [数据库篇一](https://blog.csdn.net/u011676417/article/details/86558627)
