@@ -3,9 +3,12 @@
 
 
 |:dollar:Java面试题 |
-|:------: |
-|[Java面试题](https://juejin.im/post/5c4c4da051882525dd593a5b) |
+|:dollar:Java集合 |
+|:dollar:设计模式 |
 
+|[Java面试题](https://juejin.im/post/5c4c4da051882525dd593a5b) |
+|[Java集合](https://segmentfault.com/a/1190000021039973)|
+|[设计模式](https://www.zhihu.com/people/zhang-bin-13-21/posts)|
 
 
 
