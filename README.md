@@ -34,6 +34,10 @@
 - [两数之和](https://segmentfault.com/a/1190000019548980)
 - [判断字符串是否有效](https://segmentfault.com/a/1190000019889890)
 
+### 剑指offer刷题
+- [数组查找、替换空格、从尾到头打印链表、重建二叉树、两个栈实现队列、旋转数组最小数字、斐波那契数列](https://my.oschina.net/u/2441327/blog/3188674)
+
+
 ### 数据库
 - [数据库篇一](https://blog.csdn.net/u011676417/article/details/86558627)
 - [数据库篇多表操作](https://blog.csdn.net/u011676417/article/details/86558635)
